@@ -3,5 +3,5 @@
     "main_script_name": "main.py",  
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
     "author": "Balshow Andrew",
-    "python-version": "3.11"
+    "python_version": "3.11"
 }

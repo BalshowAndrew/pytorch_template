@@ -1,1 +1,1 @@
-{{ cookiecutter.python-version }}
+{{ cookiecutter.python_version }}

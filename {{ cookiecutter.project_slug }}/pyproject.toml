@@ -3,7 +3,7 @@ name = "torch-project"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">={{ cookiecutter.python-version }}"
+requires-python = ">={{ cookiecutter.python_version }}"
 dependencies = [
     "ipykernel>=6.30.1",
     "pandas>=2.3.2",
